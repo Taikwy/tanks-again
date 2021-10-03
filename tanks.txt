@@ -1,0 +1,46 @@
+Grays - defensive fodder, slow and barely shoots
+Brown - random fodder, slow and randomly shoots
+Greens - leisurely fodder, only shoots on LOS
+Orange - kamikaze
+Blues - defensive, leads fast bullets
+Yellow - bees, aggros on sight, interval shot
+Red - Bull, always aggro, fast lead shots
+Pink - passive healer, random shots reapirs enemies (those with multiple health points)
+Black - Bullet hell, fast and constant shots, ricochet always (never los)
+Purple - Maxed stats, always aggro, fast burst shots
+
+Dark Tanks gain ricochet capabilities (if no los, calculate all ricochets, if none work, select the path with bullet getting closest to player, check los against breakable walls so maybe a burst can destroy it?)
+Shaded Tanks gain buffs to a random stat (based on player buffs?)
+
+
+Movement Speeds: Sluggish, Slow, Moderate, Quick, Fast
+Movement Types: Defensive, Passive, Offensive
+Shooting Direction: Random, Player, Lead Shot, Spread
+Shooting Interval: Random, Set, LOS
+Bullet Bounce: 
+Bullet Strength: 
+Bullet Types: Normal, Rocket, Torpedo, Missile
+
+Shitty tanks, work on pixel tanks for the game. gonna stay html5 pixi so i can show off, either way i just gotta add some banger pixel art in and itll already be hella nice. add some cool rng and level variation and ill be gucci overall honestly. then I can pop off with a famicom ost track, something hard hitting like the evolution if dedede theme and how his first is actuy the best. also figure out the turret thingy
+
+transfer my tanks game into github or maybe even itchio orboth, also make sure the html surrounding it is kinda sick. keep the documentation and the sketches cuz its cool to have that stuff, obviously make it more glamouros
+
+
+
+intelligent random level generator
+custom raycasting
+intelligent pathfinding for AI, intelligent behavior for aiming, being aggressive or defensive
+
+
+
+
+Todo----------
+UI
+Sprites
+Collisions
+Main Menu
+Tutorial
+Randomization Seed
+
+
+For the tansk game, have like a 5 level tutorial easy level kinda deal. Then there's the real mode with the endless roguelike mode where the goal is to reach 100 floors or something. Every 5 levels there's either a tiny or small reward, chances increases with how quickly the preceding 5 levels were finished (maybe based off points?). Every 10 levels there's a small upgrade, with a max of 3 (if you have more than 3 you will have to replace one of your old uiopgrades). At 50 levels in, you unlock a new theme as well as a large reward that you can choose (perma move speed up, perma faster bullets, perma extra bounce, perma faster shooting, etc). Have a glossary of possible enemies.
